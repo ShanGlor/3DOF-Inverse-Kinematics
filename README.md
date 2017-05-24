@@ -6,7 +6,7 @@ Chicken Run 3DOF IK by ShanGlor
 
 How to:
 
-Upload "StandardFirmata" sketch to Arduino.
+Upload "StandardFirmata" or "StandardFirmataPlus" sketch to Arduino.
 
 Select from the serial port list, change [1] to your assigned COM port. 
 
