@@ -1,6 +1,6 @@
 Chicken Run 3DOF IK by ShanGlor
 
--tested on Processing 2.2.1
+-tested on Processing 2.0.1
 
 -tested on Processing 3.3 but needs to install "Arduino" libs
 
