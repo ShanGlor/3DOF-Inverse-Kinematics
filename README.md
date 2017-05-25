@@ -12,4 +12,4 @@ Select from the serial port list, change "[1]" to your appropriate COM port. i.e
 
 Servos on D9, D10 and D11 of Arduino.
 
-If using FirmataStandard sketch on Arduino, can utilize the A0 and A1 as digital outputs designated as D14 and D15 respectively.
+If using FirmataStandard sketch on Arduino, can utilize the A0 and A1 as digital outputs for servos designated as D14 and D15 respectively (This will give us 14 servos that can be controlled).
